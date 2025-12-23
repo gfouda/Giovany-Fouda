@@ -1,7 +1,9 @@
 ### 👋 Hi, I'm Giovany Fouda
 
-I'm a Computer Science sophomore at the University of Central Arkansas 🇨🇲🇺🇸  
-Aspiring software engineer with a passion for tech, teamwork, and learning by doing.
+I'm a Computer Science sophomore at the University of Central Arkansas University,
+I’m a motivated Computer Science student with a strong interest in software development, 
+problem-solving, and building real-world applications.
+I enjoy learning by doing and collaborating in team environments to create efficient and scalable solutions.
 
 ---
 
@@ -17,7 +19,7 @@ Aspiring software engineer with a passion for tech, teamwork, and learning by do
 
 ### 🛠️ Projects I'm Working On:
 
-- 📊 GPA Calculator  
+- 📊 Advanced Basketball Stats Program  
 - 🌐 Personal Website  
 - 🎮 Python Mini Games
 
