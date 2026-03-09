@@ -11,7 +11,8 @@ I enjoy learning by doing and collaborating in team environments to create effic
 
 - C++
 - Python 🐍  
-- HTML/CSS 🧱  
+- HTML/CSS 🧱
+- SQL  
 - Git & GitHub 🗂️  
 - Basics of Web Development 🌐
 
